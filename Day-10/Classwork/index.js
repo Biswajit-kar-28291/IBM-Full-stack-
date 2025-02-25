@@ -59,7 +59,7 @@ console.log(obj);
 //using new keyword
 //constructor
 
-let name = "Something";
+let name = "Nilanjana";
 //let class = "B Tech"; // will give error bcz class is a reserved word 
 
 let Class = "b Tech";
