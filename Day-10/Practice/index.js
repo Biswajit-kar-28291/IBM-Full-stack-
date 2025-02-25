@@ -23,5 +23,3 @@ let superHeroes = {
 }
 console.log(superHeroes[1].villains[1].name);
 console.log(superHeroes[2].power[1])
-superHeroes[3]={name:"Spiderman", power:["Spidey senses","Intelligence"],villains:["Green Goblin", "Doctor Octavius"]}
-console.log(superHeroes[3])
