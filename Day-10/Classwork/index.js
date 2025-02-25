@@ -11,7 +11,7 @@ console.log(str[str.length-1]);
 //str[0] = "A";
 console.log(str)
 
-let arr = [1,2,3, "Noel",1.12, true, false,null,undefined,""];
+let arr = [1,2,3, "Biswajit",1.12, true, false,null,undefined,""];
 
 console.log(arr);
 
@@ -19,10 +19,10 @@ console.log(arr[arr.length-2]);
 
 console.log(arr[3]);
 
-arr.push("Noella");
+arr.push("Kar");
 console.log(arr);
 
-arr[4] = "Noelli";
+arr[4] = "hello";
 console.log(arr);
 
 //arr.pop();
